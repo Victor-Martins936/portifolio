@@ -1,0 +1,123 @@
+.footer {
+    border-radius: 5px;
+    margin-left: -8px;
+    width: 100%;
+    padding-top: 80px;
+    background: #490352;
+    background: linear-gradient(190deg, #490352 8%, #24023d 100%);
+    position: absolute;
+    bottom: 0;
+}
+
+.footer2 {
+    margin-left: 3px;
+}
+
+.imgface {
+    position: absolute;
+    top: 10px;
+    right: 18%;
+    height: 55px;
+}
+
+.imgit {
+    position: absolute;
+    top: 10px;
+    right: 13%;
+    height: 60px;
+}
+
+.imginsta {
+    position: absolute;
+    top: 14px;
+    right: 8.3%;
+    height: 50px;
+}
+
+
+.imglik {
+    position: absolute;
+    top: 10px;
+    right: 3%;
+    height: 58px;
+}
+
+
+footer {
+    position: absolute;
+    bottom: -265%;
+    font-size: 2.5em;
+    color: white;
+    font-family: font;
+    border-radius: 5px;
+    padding-left: 40%;
+    padding-right: 36.35%;
+    margin-left: -8px;
+}
+
+svg{
+    position: absolute;
+    width: 1349px;
+    left: 0;
+    top: -240px;
+}
+
+.pfooter{
+    position: absolute;
+    top: -60px;
+}
+
+@media all and (max-width: 760px) {
+    
+    .imgface {
+        position: absolute;
+        left: 18%;
+        height: 55px;
+        top: 0;
+    }
+    
+    .imgit {
+        position: absolute;
+        right: 18%;
+        height: 60px;
+        top: 0;
+    }
+    
+    .imginsta {
+        position: absolute;
+        left: 2%;
+        height: 50px;
+        top: 4px;
+    }
+    
+    
+    .imglik {
+        position: absolute;
+        right: 0;
+        height: 58px;
+        top: 0;
+    }
+
+    
+
+footer {
+    font-size: 1.1em;
+    color: white;
+    font-family: font;
+    margin-left: px;
+}
+
+svg{
+    position: absolute;
+    width: 390px;
+    left: 0;
+    top: 10px;
+}
+
+.pfooter{
+    position: absolute;
+    top: 50px;
+    left: 45%;
+}
+
+}
